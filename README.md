@@ -2,7 +2,10 @@
 #### Full Stack Developer
 ![Full Stack Developer](https://brand.sdsu.edu/_images/_design-templates/1500x500-social-cover-1.jpg)
 
-I'm Tommy, I am student at San Diego State University majoring in Computer Science and am working to become a Full Stack Engineer. I'm looking to build a career in software development and gain experience in programming. I'm currently working on building responsive and user-friendly web applications, but would like to improve my skills in languages like Java and C++ in the near future.
+Hi, I'm Tommy — a Computer Science graduate from San Diego State University with a passion for building clean, responsive, and user-friendly web applications.
+💻 I’m pursuing a career as a Full Stack Engineer, developing modern solutions across both front-end and back-end technologies.
+🚀 Currently, I’m focused on creating web apps using JavaScript, React, Node.js, and PostgreSQL, while continuing to strengthen my skills in Java and C++.
+🌱 Always learning, always building.
 
 Skills: HTML / CSS / JS / JAVA / PYTHON / C++
 
