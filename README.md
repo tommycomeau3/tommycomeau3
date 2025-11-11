@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Tommy Comeau
+### Hi there 👋, I'm Tommy
 #### Full Stack Developer
 ![Full Stack Developer](https://brand.sdsu.edu/_images/_design-templates/1500x500-social-cover-1.jpg)
 
